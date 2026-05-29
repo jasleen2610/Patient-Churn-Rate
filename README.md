@@ -3,7 +3,7 @@
 A machine learning dashboard for predicting 30-day hospital readmission risk using the Diabetes 130-US Hospitals dataset.
 
 This project combines traditional machine learning, explainability tools, and a lightweight AI assistant to help users better understand patient risk factors and model predictions. The application was built using XGBoost, scikit-learn pipelines, SHAP, Streamlit, and the OpenAI API.
-
+View this project here: https://patient-churn-rate.streamlit.app/
 ---
 
 ## Project Overview
